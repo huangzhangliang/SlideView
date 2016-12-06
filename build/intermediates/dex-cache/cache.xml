@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.2.2/baseLibrary-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e3519b9d5287840df40776a8268ae336ca9f063">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.2.2_7ed53c723ae13fdba19a1b45153e478d184e8ae5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_d7db651f90115a7b8d41348abf95c5bd7176cf42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_0ab2c863aeb84629c9198d49ce8e68a46738f41d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_bc593d1f597fe16a4346f37f914d73e40f955145/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_0061997e01ab0d975bac12c57520206c888c6ace/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_3f78e002fa3d457c307001a7f13dff80b2be1dae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="85fb7c0d340e6575ac3acd28288d236950acaf5a">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b42c74262724292731862695d13faf2979eb2c38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e4e8341e8857598b2a6c1d457d6dcfcc1bbe5f6b">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c16308615ddbcce62b9965af68e987b37a21e4cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8f12926589ff4e7e8f2d8a59790e1948b6dbc0a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_dd8010a62e35673af48952716c06de9d3b9fd132/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_39b24907ccbef7e8c4bac18fc214994d4214bae3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_11b76d427980a5214cfec3fe4e3074fef8c732b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_61c18c19398be6791660220b54827f6f1632e737/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_5c48b36ff945100d39c4d5fecc0bb055670b8cdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.2.1_768139c5183295c09616a6fc213b44eef834abf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_433f7a231ec5f2d457c80bd487dec1904fd95ebf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_8b056fd808c9a3e2a9a1f4bb30e094d1560a3e78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_a41e22b72f4ee2013cf3e8f6483ad5af71d8638d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-library-1.2.1_995d9d4f6d863d78df6d915b38794c5ede89fe2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leon/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/leon/Workspaces/AndroidStudioProjects/PracticeProgram/SlideView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_28b18fdd4d10609f94e05990cabc24ade975a012/classes.dex" />
+    </item>
+
+</items>
